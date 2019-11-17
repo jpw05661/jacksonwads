@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML lang="En">
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<TITLE>Jackson Wadsworth's Webpage</title>
+<STYLE TYPE="text/css">
+P {font-family: "Times New Roman", Times, serif;font-size:15pt;color:darkred}
+UL {font-family: "Times New Roman", Times, serif;font-size:15pt;color:darkred}
+TR {font-family: "Times New Roman", Times, serif;font-size:15pt;color:black}
+BODY {background-color:#808080}
+.end {font-size:30pt; color:#000000;text-align:center}
+</style>
+</head>
+<body>
+<div style="text-align:center">
+<h1>Jackson Wadsworth's Webpage</h1>
+<img src="" alt="" height="300" width="400">
+<p><small> Above is a photo of my dog and I during my high school senior pictures</small></p>
+</div>
+<ul>
+<li> My name is Jackson Wadsworth, and I am an Agribusiness and an Agricultural and Applied Economics major at the University of Georgia.
+<li> I am also an ambassador for the College of Agricultural and Environmental Sciences.
+<h2> My Class Schedule This Semester</h2>
+<div>
+<table border="1">
+<tr>
+<th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th>
+</tr>
+<tr>
+<td rowspan=2>Computer Science Lab</td><td>Interpersonal Communications</td><td rowspan=3>Computer Science</td><td>Interpersonal Communications</td>
+</tr>
+<tr>
+<td>Introduction to Anthropology</td><td>Introduction to Anthropology</td>
+</tr>
+<tr>
+<td>Computer Science</td><td>Accounting One</td><td>Accounting One</td>
+</tr>
+</table>
+</div>
+<img src="https://static1.squarespace.com/static/5928860959cc682551726bae/t/599df4639f7456175fe80b37/1503523940201/AGR+Crest.png?format=1000w" alt="Alpha Gamma Rho Crest" height="300" width="250" style="float:right">
+<p>
+I was raised in the town of Monroe, Georgia and I went to Apalachee Highschool where I wrestled and played tennis. All throughout highschool it was always my dream to eventually go to the <b>University of Georgia</b>.</p>
+<p>
+Since I have been at the <b>University of Georgia</b>, I have been involved in extracurriculars as well. My GPA is not as good, but it is only lower by a few points at <span style="text-decoration: underline;">3.88</span>. My fraternity, Alpha Gamma Rho, is the main thing I have spent time with outside of school since I have been made the transition into college. Many people think fraternities are just for partying, but a lot of my success is because I have a group of people that push me to be a better student and get involved around campus. Besides my fraternity, I have been involved in the Interfraternity Council, UGA Miracle, and intramural sports.</p>
+<a HREF="https://events.dancemarathon.com/index.cfm?fuseaction=donordrive.participant&amp;participantID=475448">Click this link to view my UGA Miracle page</a>
+<p>
+In the future, I hope to get an internship and eventually get a job as a financial analyst after I graduate with <I>magna cum laude</I> honors. I am also considering a Master's of Accountancy to go along with my finance major. Besides that, I am not sure what my future holds.</p>
+<p>
+<div style="text-align:center">
+<object data="https://www.youtube.com/embed/pWLiJgrsPkI" width="560" height="315"></object>
+<p>
+One of the Intramural Sports I participate in
+</p>
+<p>
+<big>Thank you for visiting my page!</big></p>
+<p class='end'>Have a Blessed Day</p>
+</div>
+</ul>
+</body>
+</html>
